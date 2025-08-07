@@ -1,0 +1,11 @@
+
+[dependencies]
+python = ">=3.13.5,<3.14"
+selenium = ">=4.34.2,<5"
+
+[tasks]
+
+[workspace]
+channels = ["conda-forge"]
+name = "Selenium"
+platforms = ["linux-64", "win-64", "osx-arm64"]

@@ -1,0 +1,4 @@
+{
+	"code-runner.executorMap": { "python": "pixi run python $fileName" },
+	"copyrightInserter.useLineComment": true
+}
